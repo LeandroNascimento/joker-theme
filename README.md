@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt='magoon-face' src='https://cloud.githubusercontent.com/assets/14088342/25765655/6603ba32-31ee-11e7-8592-60ff4b445127.png' width='250'/>
+  <img alt='joker-face' src='images/joker.png' width='250'/>
   <!-- <img alt='magoon-face' src='images/joker.png' width='250'/> -->
   <h1 align="center">JOKER FOR VSCODE</h1>
   <p align="center">Joker Theme, hahaha.</p>
