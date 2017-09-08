@@ -1,6 +1,5 @@
 <p align="center">
-  <img alt='joker-face' src='images/joker.png' width='250'/>
-  <!-- <img alt='magoon-face' src='images/joker.png' width='250'/> -->
+  <img alt='joker-face' src='https://raw.githubusercontent.com/LeandroNascimento/joker-theme/master/images/joker-theme.png' width='250'/>
   <h1 align="center">JOKER FOR VSCODE</h1>
   <p align="center">Joker Theme, hahaha.</p>
 </div>
