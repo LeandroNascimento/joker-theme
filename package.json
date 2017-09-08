@@ -1,0 +1,28 @@
+{
+    "name": "joker",
+    "displayName": "Joker Theme",
+    "description": "Joker Theme, hahaha.",
+    "icon": "images/joker.png",
+    "version": "0.0.1",
+    "publisher": "leandronascimento",
+    "galleryBanner": {
+    	"color": "#232F39",
+	"theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "engines": {
+        "vscode": "^1.11.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Joker Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Joker-theme.json"
+            }
+        ]
+    }
+}
