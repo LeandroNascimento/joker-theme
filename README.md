@@ -1,9 +1,9 @@
 <p align="center">
   <img alt='joker-face' src='https://raw.githubusercontent.com/LeandroNascimento/joker-theme/master/images/joker.png' width='250'/>
   <h1 align="center">JOKER FOR VSCODE</h1>
-  <p align="center">Joker Theme, hahaha.</p>
+  <p align="center">Joker Theme, Why so serious?</p>
 </div>
-<hr>  
+<hr>
 
 <p align="center">
   <img alt='example' src='https://raw.githubusercontent.com/LeandroNascimento/joker-theme/master/images/joker-theme.png' /><br><br>

@@ -1,40 +1,40 @@
 {
-    "name": "joker",
-    "displayName": "Joker Theme",
-    "description": "Joker Theme, hahaha.",
-    "icon": "images/joker.png",
-    "version": "0.0.2",
-    "publisher": "joker-theme",
-    "galleryBanner": {
-        "color": "#232F39",
-        "theme": "dark"
-    },
-    "author": {
-        "name": "Leandro Nascimento",
-        "email": "fleandro.nascimento@gmail.com"
-    },
-    "homepage": "https://github.com/leandronascimento/joker-theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/leandronascimento/joker-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/leandronascimento/joker-theme/issues"
-    },
-    "license": "SEE LICENSE IN LICENSE.md",
-    "engines": {
-        "vscode": "^1.11.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Joker Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Joker-theme.json"
-            }
-        ]
-    }
+  "name": "joker",
+  "displayName": "Joker Theme",
+  "description": "Joker Theme, hahaha.",
+  "icon": "images/joker.png",
+  "version": "1.0.0",
+  "publisher": "joker-theme",
+  "galleryBanner": {
+    "color": "#232F39",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Leandro Nascimento",
+    "email": "fleandro.nascimento@gmail.com"
+  },
+  "homepage": "https://github.com/leandronascimento/joker-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandronascimento/joker-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/leandronascimento/joker-theme/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "engines": {
+    "vscode": "^1.11.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Joker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Joker-theme.json"
+      }
+    ]
+  }
 }
