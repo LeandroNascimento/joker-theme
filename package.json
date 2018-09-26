@@ -1,9 +1,9 @@
 {
   "name": "joker",
   "displayName": "Joker Theme",
-  "description": "Joker Theme, hahaha.",
-  "icon": "images/joker.png",
-  "version": "1.0.0",
+  "description": "Joker Theme, Why so serious?",
+  "icon": "images/joker-marketplace.png",
+  "version": "1.0.1",
   "publisher": "joker-theme",
   "galleryBanner": {
     "color": "#232F39",
@@ -13,7 +13,7 @@
     "name": "Leandro Nascimento",
     "email": "fleandro.nascimento@gmail.com"
   },
-  "homepage": "https://github.com/leandronascimento/joker-theme",
+  "homepage": "https://leandronascimento.github.io/joker",
   "repository": {
     "type": "git",
     "url": "https://github.com/leandronascimento/joker-theme"
